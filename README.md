@@ -1,1 +1,3 @@
-# git_github_sic6
+# GIT & Github SIC 6
+
+Made By Joshua Phartogi
