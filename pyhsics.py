@@ -6,3 +6,6 @@ def newton1(a,b):
 
 def newton2(a,b):
     return ( a / b ) + ( a ** 2 + b ** 2)
+
+def newton3(a,b):
+    return ( a * b ) + ( b / a ) + (3.14 * a ** 2 * b)
