@@ -1,3 +1,6 @@
 Semoga perubahannya tercatat di dalam remote repo!
 
 Ini adalah perubahan yang saya ingin buat di file ini.
+
+
+Saya sudah tambahin juga untuk physicsnya ya guys.
